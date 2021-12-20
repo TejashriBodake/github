@@ -2,3 +2,6 @@ This is a appliction
 emoji
 color 
 save
+dark mode 
+soft mode
+videocl
