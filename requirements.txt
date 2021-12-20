@@ -5,3 +5,7 @@ save
 dark mode 
 soft mode
 videocl
+
+doubt 
+payment option 
+send and recive money
